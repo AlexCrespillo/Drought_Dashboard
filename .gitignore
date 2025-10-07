@@ -120,8 +120,8 @@ cover/
 .streamlit/secrets.toml
 .streamlit/config.toml
 
-# Claude Code (local settings only)
-.claude/settings.local.json
+# Claude Code (local settings)
+.claude/
 
 # Model outputs and trained models
 models/*.pkl
