@@ -130,13 +130,10 @@ models/*.hdf5
 outputs/*.pkl
 
 # Large data files (exceed GitHub 100MB limit)
-# These files are excluded due to GitHub's 100MB file size restriction
+# Note: data/csv/caudales_diarios.csv is now tracked with Git LFS (see .gitattributes)
+# These files remain excluded (not needed for repository):
 data/caudales_diarios.csv
-data/csv/caudales_diarios.csv
 data/eventos_sequia_p5_diario.csv
-
-# Keep small data files
-!data/csv/eventos_sequia_p5.csv
 
 # Environment variables
 .env
