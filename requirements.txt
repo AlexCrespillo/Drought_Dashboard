@@ -1,0 +1,121 @@
+# Requirements for Comprehensive Drought Analysis Dashboard
+# Ebro River Basin Hydrological Drought Analysis (1974-2021)
+# Advanced Statistical Analysis, Machine Learning & Geospatial Visualization
+# 
+# Author: Alex Crespillo López
+# Institution: Instituto Pirenaico de Ecología - CSIC
+# Date: 2024-10-07
+
+# =====================================
+# CORE DATA SCIENCE & ANALYSIS
+# =====================================
+
+# Essential Data Manipulation
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Statistical Computing & Analysis
+scipy>=1.11.0
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+
+# Advanced Statistical Tests & Time Series Analysis
+pymannkendall>=1.4.0  # Mann-Kendall trend tests
+ruptures>=1.1.0       # Change point detection
+
+# =====================================
+# VISUALIZATION & PLOTTING
+# =====================================
+
+# Core Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Interactive Visualizations
+plotly>=5.15.0
+
+# Specialized Plotting
+matplotlib-venn>=0.11.7  # Venn diagrams for data overlap analysis
+
+# =====================================
+# GEOSPATIAL ANALYSIS & MAPPING
+# =====================================
+
+# Geospatial Data Processing
+geopandas>=0.13.0
+rasterio>=1.3.0
+shapely>=2.0.0
+fiona>=1.9.0
+pyproj>=3.6.0
+
+# Interactive Maps & Web Mapping
+folium>=0.14.0
+contextily>=1.4.0  # Basemap tiles for geospatial plots
+
+# =====================================
+# JUPYTER NOTEBOOK ENVIRONMENT
+# =====================================
+
+# Jupyter Core
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.1.0
+
+# Notebook Extensions & Utilities
+nbformat>=5.9.0
+nbconvert>=7.8.0
+
+# =====================================
+# DATA I/O & FILE HANDLING
+# =====================================
+
+# Excel & Spreadsheet Support
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Additional File Format Support
+h5py>=3.9.0  # HDF5 files
+netcdf4>=1.6.0  # NetCDF climate data files
+
+# =====================================
+# PERFORMANCE & UTILITIES
+# =====================================
+
+# System Monitoring & Performance
+psutil>=5.9.0
+tqdm>=4.66.0  # Progress bars
+
+# Memory & Performance Optimization
+numba>=0.58.0  # JIT compilation for numerical functions
+
+# =====================================
+# OPTIONAL ADVANCED FEATURES
+# =====================================
+
+# Additional Statistical Packages (optional but recommended)
+# pyflux>=0.4.15  # Time series forecasting (if needed)
+# arch>=6.2.0     # ARCH/GARCH models (if needed)
+
+# Web Dashboard Framework
+streamlit>=1.26.0
+streamlit-folium>=0.15.0
+
+# =====================================
+# MACHINE LEARNING & TIME SERIES
+# =====================================
+
+# Model persistence
+joblib>=1.3.0
+
+# Time series analysis
+statsmodels>=0.14.0  # Already included above but ensure latest version
+
+# =====================================
+# DEVELOPMENT & TESTING
+# =====================================
+
+# Code Quality & Testing (development only)
+# pytest>=7.4.0
+# black>=23.7.0      # Code formatting
+# flake8>=6.0.0      # Code linting

@@ -1,0 +1,6 @@
+Dataset,Type,Features/Resolution,CRS,Key Metrics
+Ebro Basin Boundary,Polygon (Boundary),1 polygon(s),EPSG:25830,155374 km² area
+River Network,LineString (Network),974 segments,EPSG:25830,13003 km total length
+Gauging Stations,Point (Stations),88 stations,EPSG:25830,Spatial coverage: basin-wide
+Reservoirs,Polygon (Water Bodies),19 reservoirs,EPSG:25830,0.00 km² water surface
+Digital Elevation Model,Raster (Elevation),3133×5388 pixels,EPSG:25830,Range: -32-3314 m elevation
