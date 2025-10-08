@@ -5,7 +5,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 
 > **Comprehensive Hydrological Drought Analysis for the Ebro River Basin (1974-2021)**
-> 
 > Advanced statistical analysis, machine learning classification, and interactive visualization of drought patterns across Spain's largest river basin.
 
 ## 📊 Project Overview
