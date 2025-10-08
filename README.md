@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 
-> **Comprehensive Hydrological Drought Analysis for the Ebro River Basin (1974-2021)**
+> **Comprehensive Hydrological Drought Analysis for the Ebro River Basin (1974-2021).**
 > 
 > Advanced statistical analysis, machine learning classification, and interactive visualization of drought patterns across Spain's largest river basin.
 
