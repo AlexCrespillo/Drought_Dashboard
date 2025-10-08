@@ -216,7 +216,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### 👥 Authors
 - **Research Team**: Hydrological Drought Analysis Group
 - **Institution**: Instituto Pirenaico de Ecología - CSIC
-- **Contact**: acrespillo@ipe.csic.es
+- **Contact**: alex@ipe.csic.es
 
 ### 📖 Citation
 If you use this code or methodology in your research, please cite:
