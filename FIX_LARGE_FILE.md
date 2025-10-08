@@ -115,7 +115,7 @@ If you update `caudales_diarios.csv`:
 
 ## Contact
 **Alex Crespillo López**
-- Email: acrespillo@ipe.csic.es
+- Email: alex@ipe.csic.es
 - Institution: IPE-CSIC
 - Date: 2024-10-07
 
