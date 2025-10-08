@@ -72,7 +72,7 @@ After pushing, verify on GitHub:
 ### For Users Cloning Your Repo
 - They will clone the repository successfully
 - They will see `DATA.md` with instructions to download the large file
-- They can contact you (acrespillo@ipe.csic.es) to obtain the data
+- They can contact you (alex@ipe.csic.es) to obtain the data
 - Or they can download from SAIH-Ebro directly
 
 ## Alternative: If You've Already Pushed
